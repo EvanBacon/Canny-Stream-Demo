@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@config-plugins/react-native-dynamic-app-icon": "^0.0.0",
+    "@expo/html-elements": "^0.0.2",
     "@react-native-voice/voice": "^3.2.0",
     "expo": "~42.0.0",
     "expo-dev-client": "^0.4.3",
@@ -23,7 +24,6 @@
     "react-native-fast-image": "^8.3.4",
     "react-native-gesture-handler": "~1.10.2",
     "react-native-health": "^1.9.0",
-    "react-native-mmkv": "^1.1.6",
     "react-native-reanimated": "~2.2.0",
     "react-native-screens": "~3.4.0",
     "react-native-track-player": "^1.2.7",

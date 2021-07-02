@@ -1243,6 +1243,11 @@
     xcode "^3.0.0"
     xml-js "^1.6.11"
 
+"@expo/html-elements@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@expo/html-elements/-/html-elements-0.0.2.tgz#9e913ab860ebf676cecf200385d126649c7c4496"
+  integrity sha512-sB5mrrL0GKew9EMCBwS12zlBjF4hswqpP42T/bacgxadF8CKWGLru4KLrAi2cmBAkUOC1Z/HGmlVWEOi7Gl+OA==
+
 "@expo/image-utils@^0.3.14", "@expo/image-utils@~0.3.14":
   version "0.3.14"
   resolved "https://registry.yarnpkg.com/@expo/image-utils/-/image-utils-0.3.14.tgz#eea0d59c5845e8b19504011c20afd837c5d044c5"
@@ -5364,11 +5369,6 @@ react-native-health@^1.9.0:
   integrity sha512-WKV2+++f3HJ+1UYplo3mAwZ48OmjGNQNEbb/L9ol7GuBuAcNLe499Z3q/eDs7t7FgTfTTvEBjVxIfrooKVrxHA==
   dependencies:
     "@expo/config-plugins" "^2.0.0"
-
-react-native-mmkv@^1.1.6:
-  version "1.1.6"
-  resolved "https://registry.yarnpkg.com/react-native-mmkv/-/react-native-mmkv-1.1.6.tgz#562699c57fc55ec84b17ef675f6f609339096dfd"
-  integrity sha512-mvpnGLkXsEwlhGc2IoiqwI+7F9PwkcoJdt3PZOMtSCrt1ngDPJXXfyIxJ4/Ia8vd/gm7K3G+/mfusjEoiOsjxw==
 
 react-native-reanimated@~2.2.0:
   version "2.2.0"

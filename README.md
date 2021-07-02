@@ -20,3 +20,20 @@
 
 
 > Download simulator build and emulator dev clients, then start the projects.
+
+## Download the Dev Client
+
+Download the custom client app!
+
+> iOS Simulator, Android Emulator only
+
+<p>
+  <a aria-label="Download iOS Dev Client" href="https://github.com/EvanBacon/Canny-Stream-Demo/raw/main/ios-simulator-build.tar.gz">
+    <img src="https://img.shields.io/badge/Apple%20Simulator-000.svg?style=for-the-badge&logo=APPLE&labelColor=7D7D7D&logoColor=fff">
+  </a>
+  <a aria-label="Download Android Dev Client" href="https://github.com/EvanBacon/Canny-Stream-Demo/raw/main/android-emulator-build.apk">
+    <img src="https://img.shields.io/badge/Android%20Emulator-000.svg?style=for-the-badge&logo=ANDROID&labelColor=3DDC84&logoColor=fff">
+  </a>
+</p>
+
+

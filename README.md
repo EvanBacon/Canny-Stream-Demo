@@ -16,7 +16,7 @@
   
 </p>
 
-<img alt="Banner: demo" src="https://user-images.githubusercontent.com/9664363/124307870-ac8b1100-db25-11eb-8b1e-871d559e6525.png" />
+<img alt="Banner: demo" src="https://user-images.githubusercontent.com/9664363/124310000-d09c2180-db28-11eb-81c3-737b542db5fc.png" />
 
 
 > Download simulator build and emulator dev clients, then start the projects.

@@ -32,7 +32,10 @@
     "react-native-youtube": "^2.0.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0"
+    "@babel/core": "^7.9.0",
+    "@types/react": "~16.9.35",
+    "@types/react-native": "~0.63.2",
+    "typescript": "~4.0.0"
   },
   "private": true,
   "name": "CannyCloseOut",

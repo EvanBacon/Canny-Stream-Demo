@@ -24,6 +24,8 @@
       "supportsTablet": true
     },
     "plugins": [
+      "react-native-health",
+      "@react-native-voice/voice",
       [
         "@config-plugins/react-native-dynamic-app-icon", 
         [

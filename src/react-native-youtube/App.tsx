@@ -40,7 +40,7 @@ export default class ReactNativeYouTubeExample extends React.Component {
                     // Un-comment one of videoId / videoIds / playlist.
                     // You can also edit these props while Hot-Loading in development mode to see how
                     // it affects the loaded native module
-                    videoId="xuCn8ux2gbs"
+                    videoId="7E6zsRpfT4U"
                     // videoIds={['uMK0prafzw0', 'qzYgSecGQww', 'XXlZfc1TrD0', 'czcjU1w-c6k']}
                     // playlistId="PLF797E961509B4EB5"
                     play={this.state.isPlaying}
@@ -350,8 +350,8 @@ export default class ReactNativeYouTubeExample extends React.Component {
                 {/* Show Progress */}
                 <Text style={styles.instructions}>
                     Progress: {Math.trunc(this.state.currentTime)}s ({Math.trunc(this.state.duration / 60)}:
-          {Math.trunc(this.state.duration % 60)}s)
-          {Platform.OS !== 'ios' && <Text> (Click Update Progress & Duration)</Text>}
+                    {Math.trunc(this.state.duration % 60)}s)
+                    {Platform.OS !== 'ios' && <Text> (Click Update Progress & Duration)</Text>}
                 </Text>
 
                 <Text style={styles.instructions}>

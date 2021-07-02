@@ -12,6 +12,7 @@
     "@react-native-menu/menu": "^0.4.1",
     "@react-native-voice/voice": "^3.2.0",
     "expo": "~42.0.0",
+    "expo-dev-client": "^0.4.3",
     "expo-status-bar": "~1.0.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",

@@ -18,9 +18,6 @@
 
 <img alt="Banner: demo" src="https://user-images.githubusercontent.com/9664363/124310000-d09c2180-db28-11eb-81c3-737b542db5fc.png" />
 
-
-> Download simulator build and emulator dev clients, then start the projects.
-
 ## Download the Dev Client
 
 Download the custom client app!
@@ -35,5 +32,24 @@ Download the custom client app!
     <img src="https://img.shields.io/badge/Android%20Emulator-000.svg?style=for-the-badge&logo=ANDROID&labelColor=3DDC84&logoColor=fff">
   </a>
 </p>
+
+## Starting the App
+
+Clone the repo, run `yarn` to install the dependencies, and run `expo start --dev-client` to start the development server that the clients can connect to.
+
+Run `expo run:ios` or `expo run:android` to rebuild the clients locally.
+
+
+## More Help
+
+Download the IPA tar file, extract it, and drag resulting `.app` file onto your iOS Simulator.
+
+Download the APK, and drag it onto your Android emulator.
+
+You can open simulators and emulators by running `expo start` then pressing any of the following:
+- <kbd>i</kbd> Open Simulator.
+- <kbd>a</kbd> Open Emulator.
+- <kbd>Shift I</kbd> iOS Simulator selection .
+- <kbd>Shift A</kbd> Android Emulator selection.
 
 

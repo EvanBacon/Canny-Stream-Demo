@@ -1815,11 +1815,6 @@
     sudo-prompt "^9.0.0"
     wcwidth "^1.0.1"
 
-"@react-native-menu/menu@^0.4.1":
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/@react-native-menu/menu/-/menu-0.4.1.tgz#4932469b0d8c2280fbfb82a179675ae11bb4f74e"
-  integrity sha512-+9ybh8c0VWWPYwQbcmoQLBpCOS1NyYHP7KB/OLn/feD4dkr1JJQK/chDib6tO4GxmVS3Q6uuxyRp35Owwh2w9g==
-
 "@react-native-voice/voice@^3.2.0":
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/@react-native-voice/voice/-/voice-3.2.0.tgz#3570fbc1279c5690a6ffbdfbdd2b58306bd69bf0"

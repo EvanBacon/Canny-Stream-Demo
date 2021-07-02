@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "@config-plugins/react-native-dynamic-app-icon": "^0.0.0",
-    "@react-native-menu/menu": "^0.4.1",
     "@react-native-voice/voice": "^3.2.0",
     "expo": "~42.0.0",
     "expo-dev-client": "^0.4.3",

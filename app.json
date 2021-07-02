@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "CannyCloseOut",
-    "slug": "CannyCloseOut",
+    "name": "Canny Stream",
+    "slug": "canny-stream",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -17,9 +17,25 @@
       "**/*"
     ],
     "ios": {
+      "infoPlist": {
+        "UIBackgroundModes": ["audio"]
+      },
+      "bundleIdentifier": "com.bacon.cannystream",
       "supportsTablet": true
     },
+    "plugins": [
+      [
+        "@config-plugins/react-native-dynamic-app-icon", 
+        [
+          "https://avatars.githubusercontent.com/u/90494?v=4",
+          "https://pbs.twimg.com/profile_images/1308332115919020032/jlqFOD33_400x400.jpg",
+          "https://appjs.co/2019/wp-content/uploads/2015/09/brent3-458x458.png",
+          "https://s3.amazonaws.com/assets.materialup.com/users/pictures/000/361/144/preview/open-uri20180613-4-1yz52gq?1528892052"
+        ]
+      ]
+    ],
     "android": {
+      "package": "com.bacon.cannystream",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"

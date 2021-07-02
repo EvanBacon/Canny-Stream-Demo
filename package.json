@@ -8,12 +8,22 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@config-plugins/react-native-dynamic-app-icon": "^0.0.0",
+    "@react-native-menu/menu": "^0.4.1",
+    "@react-native-voice/voice": "^3.2.0",
     "expo": "~42.0.0",
     "expo-status-bar": "~1.0.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
-    "react-native-web": "~0.13.12"
+    "react-native-blurhash": "^1.1.4",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-dynamic-app-icon": "^1.1.0",
+    "react-native-fast-image": "^8.3.4",
+    "react-native-mmkv": "^1.1.6",
+    "react-native-track-player": "^1.2.7",
+    "react-native-web": "~0.13.12",
+    "react-native-youtube": "^2.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"
